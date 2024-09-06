@@ -21,5 +21,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/VictorGarciaQF) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/quantumm.fluxx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VictorGarciaQF) 
 
 # 🎧 Songs I've Recently Listened to on Spotify:
-Here are some tracks that have been keeping me inspired: <br>
+Here are some tracks that have been keeping me inspired: <br> <br>
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12169094240)
