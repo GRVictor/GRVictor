@@ -2,7 +2,7 @@
 
 👋 Hi, I'm **Victor Garcia**, a passionate Software Engineer with a strong focus on **Front-End Development** and a special love for **React**. 
 
-❤️ **My greatest inspiration** comes from the love of my life, who brings joy and purpose to my daily life. And, of course, music is a huge part of my journey—it fuels my creativity and shapes the way I solve problems.
+❤️ **My greatest inspiration** comes from the love of my life, who brings joy and purpose to my daily life. And, of course, music is a huge part of my journey, it fuels my creativity and shapes the way I solve problems.
 
 💻 For me, **programming is more than just code**. It’s a creative process, much like painting or composing music. Every line of code is a new note, every project a new masterpiece waiting to be completed.
 
